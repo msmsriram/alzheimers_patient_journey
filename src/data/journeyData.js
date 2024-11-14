@@ -196,7 +196,9 @@ export const journeyData = [
         { value: "$26,500", label: "Annual cost of Leqembi per patient" },
         { value: "31 hrs", label: "Monthly Caregiver Time" },
         { value: "36 deaths per 100,000 people", label: "Death Rate" },
-        { value: "61%", label: "Life Expectancy Impact" }
+        { value: "61%", label: "Life Expectancy Impact" },
+        { value: "69.20%", label: "Non-Adherence Percentage" },
+        { value: "76%", label: "Agitation" }
 
       ],
       barriers: {
